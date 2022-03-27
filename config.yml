@@ -9,5 +9,5 @@ urls:
     type: "get"
   - path: "http://ws.hexp.net"
     type: "get"
-  - path: "http://pintelhotline.com"
+  - path: "http://eseqtech.com/infoline"
     type: "get"
