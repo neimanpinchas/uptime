@@ -1,5 +1,11 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-  - path: "https://google.com"
+  - path: "https://eseqtech.com"
+    type: "get"
+  - path: "https://forum.eseqtech.com"
+    type: "get"
+  - path: "https://hexp.net"
+    type: "get"
+  - path: "https://ws.hexp.net"
     type: "get"
