@@ -1,8 +1,8 @@
 # 📖 Summary
-Last updated: **4/18/2022, 4:35:46 AM**
+Last updated: **4/18/2022, 4:57:13 AM**
 
-- `GET` [https://eseqtech.com](https://eseqtech.com) - **Up** (214ms)
-- `GET` [http://forum.eseqtech.com](http://forum.eseqtech.com) - **Up** (5028ms)
-- `GET` [http://hexp.net](http://hexp.net) - **Up** (67ms)
-- `GET` [http://ws.hexp.net](http://ws.hexp.net) - **Up** (38ms)
-- `GET` [http://eseqtech.com/infoline](http://eseqtech.com/infoline) - **Up** (105ms)
+- `GET` [https://eseqtech.com](https://eseqtech.com) - **Up** (383ms)
+- `GET` [http://forum.eseqtech.com](http://forum.eseqtech.com) - **Up** (9937ms)
+- `GET` [http://hexp.net](http://hexp.net) - **Up** (183ms)
+- `GET` [http://ws.hexp.net](http://ws.hexp.net) - **Up** (154ms)
+- `GET` [http://eseqtech.com/infoline](http://eseqtech.com/infoline) - **Up** (295ms)
